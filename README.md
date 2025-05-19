@@ -23,5 +23,6 @@ The sample demo project for the university
 ### Backend
 
 ```bash
+docker-compose up
 ./gradlew clean build
 ./gradlew bootRun
